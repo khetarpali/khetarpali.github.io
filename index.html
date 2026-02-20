@@ -4,6 +4,19 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Ishan Khetarpal</title>
+  <style>
+  .header-logo {
+    display: none;
+  }
+  @media (min-width: 760px) {
+    .header-logo {
+      display: inline;
+      float: right;
+      max-width: 180px;
+      margin-top: 0.25rem;
+    }
+  }
+</style>
 <link rel="stylesheet" href="https://edwardtufte.github.io/tufte-css/tufte.min.css">
 </head>
 <body>
@@ -18,7 +31,7 @@
 </nav>
    -->
 <article>
-  <h1>Ishan Khetarpal</h1>
+ <h1>Ishan Khetarpal <span class="header-logo"><img src="bridge_logo_light.svg" alt="Bridge logo" style="width: 100%; height: auto;"></span></h1>
 <section id="about">
   <h2>About me:</h2>
 <p>I think of myself as a human bridge.<label for="mn-bridge" class="margin-toggle">⊕</label>
