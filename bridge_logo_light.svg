@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" fill="none">
+  <!-- Gray edges -->
+  <line x1="48" y1="340" x2="270" y2="130" stroke="#b4b4af" stroke-width="3" stroke-linecap="round"/>
+  <line x1="48" y1="340" x2="460" y2="460" stroke="#b4b4af" stroke-width="3" stroke-linecap="round"/>
+  <line x1="270" y1="130" x2="460" y2="460" stroke="#b4b4af" stroke-width="3" stroke-linecap="round"/>
+  <line x1="270" y1="130" x2="540" y2="280" stroke="#b4b4af" stroke-width="3" stroke-linecap="round"/>
+  <line x1="460" y1="460" x2="540" y2="280" stroke="#b4b4af" stroke-width="3" stroke-linecap="round"/>
+  <line x1="460" y1="460" x2="720" y2="440" stroke="#b4b4af" stroke-width="3" stroke-linecap="round"/>
+  <line x1="560" y1="50" x2="1050" y2="130" stroke="#b4b4af" stroke-width="3" stroke-linecap="round"/>
+  <line x1="1050" y1="130" x2="980" y2="420" stroke="#b4b4af" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Black bridge edge -->
+  <line x1="540" y1="280" x2="1050" y2="130" stroke="#191919" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Gray nodes -->
+  <circle cx="48" cy="340" r="12" fill="#a0a09b"/>
+  <circle cx="270" cy="130" r="12" fill="#a0a09b"/>
+  <circle cx="460" cy="460" r="12" fill="#a0a09b"/>
+  <circle cx="720" cy="440" r="12" fill="#a0a09b"/>
+  <circle cx="560" cy="50" r="12" fill="#a0a09b"/>
+  <circle cx="980" cy="420" r="12" fill="#a0a09b"/>
+
+  <!-- Black bridge nodes -->
+  <circle cx="540" cy="280" r="12" fill="#191919"/>
+  <circle cx="1050" cy="130" r="12" fill="#191919"/>
+</svg>
